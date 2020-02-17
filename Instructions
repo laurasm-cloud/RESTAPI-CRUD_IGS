@@ -1,0 +1,7 @@
+### Instructions ####
+
+The application is setup to launch the application via the IIS Server and to open it directly with swagger in launchapp.json. 
+
+I have commented out the api/products so if you rather launch it, it's easy to make the switch. 
+
+I have added error handling sensible to the results outcome.
